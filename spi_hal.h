@@ -2,8 +2,6 @@
 #ifndef SOURCES_SPI_HAL_H_
 #define SOURCES_SPI_HAL_H_
 
-#include "Template/LDM.h"
-
 #define SPI_HAL_DEFAULT_BAUDRATE 5000000
 
 typedef SPI_Type *SPI_t; /* SPI 0-2 */
